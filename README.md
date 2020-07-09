@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Samip Timalsena.
 
-<!--
-**samiptimalsena/samiptimalsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am  studying Computer Engineering at Kathmandu University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning maths behind the various deep learning concept.
+- 🔭 I believe that first step is the toughest of all other steps you take.
+- 👯 I’m looking to collaborate on project to solve real-life problems.
+- 🤔 I’m looking for help in some areas of ML.
+- 📫 I would love to connect you on [Twitter](https://twitter.com/samip_timalsena), [LinkedIn](https://www.linkedin.com/in/samip-timalsena-b9a21a1ab/).
+- ⚡ Fun fact: I had an interest in medical field. 
+
+
