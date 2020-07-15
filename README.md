@@ -11,4 +11,4 @@ I am  studying Computer Engineering at Kathmandu University.
 - ⚡ Fun fact: I had an interest in medical field. 
 
 
-[![HitCount](http://hits.dwyl.com/samiptimalsena/samiptimalsena.svg)](http://hits.dwyl.com/samiptimalsena/samiptimalsena)
+![](http://hits.dwyl.com/samiptimalsena/samiptimalsena.svg)
