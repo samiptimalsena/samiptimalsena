@@ -8,6 +8,7 @@ I am  studying Computer Engineering at Kathmandu University.
 - 👯 I’m looking to collaborate on project to solve real-life problems.
 - 🤔 I’m looking for help in some areas of ML.
 - ⚡ Fun fact: I had an interest in medical field. 
+<br/>
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
