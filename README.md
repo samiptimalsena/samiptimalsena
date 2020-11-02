@@ -3,11 +3,11 @@
 
 I am  studying Computer Engineering at Kathmandu University.
 
-- 🌱 I’m currently learning maths behind the various deep learning concept.
+- 🌱 I’m currently learning maths of various ML algorithms.
 - 🔭 I believe that first step is the toughest of all other steps you take.
-- 👯 I’m looking to collaborate on project to solve real-life problems.
-- 🤔 I’m looking for help in some areas of ML.
+- :pencil: I sometime write blogs in [Medium](https://samiptimalsena.medium.com/).
 - ⚡ Fun fact: I had an interest in medical field. 
+
 <br/>
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
